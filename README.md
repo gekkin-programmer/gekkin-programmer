@@ -1,16 +1,42 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Hey%20There!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=18" width="100%" />
+</p>
 
-<!--
-**gekkin-programmer/gekkin-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">I'm [Pene Nkouam Bryan]</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Specialist+%7C+3%2B+Years+Experience;Static+%E2%86%92+Dynamic+%E2%86%92+3D+Websites;Crafting+Digital+Experiences;Next.js+%7C+Angular+%7C+React+Developer;Java+%7C+Python+%7C+Rust+Backend;Tailoring+Solutions+to+Your+Needs" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=000000&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=000000&labelColor=000000" alt="Stars" />
+</p>
+
+---
+
+## 🎯 About Me
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```typescript
+const developer = {
+    name: "[Your Name]",
+    role: "Frontend Specialist",
+    experience: "3+ years",
+    location: "[Your Location]",
+    
+    expertise: [
+        "Static Websites",
+        "Dynamic Web Apps", 
+        "3D Web Experiences",
+        "API Integrations"
+    ],
+    
+    currentFocus: "Building performant web experiences",
+    funFact: "I mass mass code haha :)",
+    availableForHire: true
+};
