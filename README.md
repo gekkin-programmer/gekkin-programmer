@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=000000&labelColor=000000" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=000000&labelColor=000000" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=gekkin-programmer&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/gekkin-programmer?label=Followers&style=for-the-badge&color=000000&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/gekkin-programmer?label=Stars&style=for-the-badge&color=000000&labelColor=000000" alt="Stars" />
 </p>
 
 ---
