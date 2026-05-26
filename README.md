@@ -37,6 +37,6 @@ const developer = {
     ],
     
     currentFocus: "Building performant web experiences",
-    funFact: "I mass mass code haha :)",
+    funFact: "Probably playing brawl stars ",
     availableForHire: true
 };
